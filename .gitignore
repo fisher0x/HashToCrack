@@ -1,0 +1,27 @@
+# Binaries
+bin/
+data/
+
+# Output files
+*.txt
+!README.md
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+*.dit
+*.lst
+
+# Build artifacts
+dist/
+
+# Unused Github Workflow files
+.github/workflows/ci.yml
